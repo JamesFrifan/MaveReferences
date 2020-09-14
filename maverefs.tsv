@@ -216,3 +216,6 @@ PMID	DOI	First author	Year	Type	Molecule	Model	Selection Type	Mutagenesis Type	S
 -	10.1101/2020.05.10.087312 	Chiasson	2020	DMS	VKOR	HEK293T	VAMP-seq	Mutagenesis primer	Illumina (barcoded)	GSE149922	No (preprint)
 -	10.1101/2020.06.26.174375 	Nedrud	2020	DMS	PSD95 PDZ	E.coli	Binding	oligo synthesis	Illumina	No (private)	No (private)
 -	10.1101/623108 	Jones	2020	DMS	ADRB2	HEK293T	Receptor activity	oligo synthesis	Illumina (barcoded)	No (preprint)	TSV
+31467279	10.1038/s41467-019-11735-3 	Li	2019	DMS	Phage lambda repressor	E.coli	Transcription	doped oligonucleotide synthesis	Illumina	GSE122806	XLS
+31527666	10.1038/s41467-019-12130-8	Poelwijk	2019	DMS	Entacmaea quadricolor fluorescent protein	E.coli	Fluorescence	?	Illumina (barcoded)	PRJNA560590	XLS
+29849145	 10.1038/s41586-018-0170-7	Domingo	2018	DMS	Yeast tRNA	Yeast	Growth	oligo synthesise	Illumina	GSE99418	XLS

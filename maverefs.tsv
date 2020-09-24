@@ -219,3 +219,5 @@ PMID	DOI	First author	Year	Type	Molecule	Model	Selection Type	Mutagenesis Type	S
 31467279	10.1038/s41467-019-11735-3 	Li	2019	DMS	Phage lambda repressor	E.coli	Transcription	doped oligonucleotide synthesis	Illumina	GSE122806	XLS
 31527666	10.1038/s41467-019-12130-8	Poelwijk	2019	DMS	Entacmaea quadricolor fluorescent protein	E.coli	Fluorescence	?	Illumina (barcoded)	PRJNA560590	XLS
 29849145	 10.1038/s41586-018-0170-7	Domingo	2018	DMS	Yeast tRNA	Yeast	Growth	oligo synthesise	Illumina	GSE99418	XLS
+31745561	10.1093/nar/gkz1110	Coyote-Maestas	2020	DMS	HEK293FT	Kir2.1	Surface expression	saturated programmable insertion engineering	Illumina	 PRJNA506141, PRJNA554355	No
+32500953	10.15252/msb.20209442	Hasle	2020	DMS	U-2 OS H3-Dendra2	simian virus 40 NLS	Visual cell sorting	NNK PCR	Illumina	SE141030	XLS

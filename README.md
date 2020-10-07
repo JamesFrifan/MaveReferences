@@ -231,7 +231,7 @@ You can also submit changes using the GitHub issue tracker.
 |[32744131](https://www.ncbi.nlm.nih.gov/pubmed/32744131)|[10.1080/19420862.2020.1803646 ](https://doi.org/10.1080/19420862.2020.1803646 )|Simons|2020|DMS|IgG|Yeast|Binding by FACS|error-prone PCR, NNK PCR|Sequel System|No|TIF|
 |[32747536](https://www.ncbi.nlm.nih.gov/pubmed/32747536)|[10.1073/pnas.1909634117 ](https://doi.org/10.1073/pnas.1909634117 )|Walker|2020|DMS|23S rRNA|E.coli|Growth|?|Illumina (barcoded)|Bioproject 511591|No|
 |[32786289](https://www.ncbi.nlm.nih.gov/pubmed/32786289)|[10.1101/2020.05.01.072884 ](https://doi.org/10.1101/2020.05.01.072884 )|Newberry|2020|DMS|alpha-synuclein|Yeast|Compound resistance|Provided|Illumina (barcoded)|[PRJNA56480](https://www.ebi.ac.uk/ena/data/view/PRJNA56480)|XLS|
-|-|[10.1101/2020.05.10.087312 ](https://doi.org/10.1101/2020.05.10.087312 )|Chiasson|2020|DMS|VKOR|HEK293T|VAMP-seq|Mutagenesis primer|Illumina (barcoded)|GSE149922|No (preprint)|
+|[32870157](https://www.ncbi.nlm.nih.gov/pubmed/32870157)|[10.1101/2020.05.10.087312 ](https://doi.org/10.1101/2020.05.10.087312 )|Chiasson|2020|DMS|VKOR|HEK293T|VAMP-seq|Mutagenesis primer|Illumina (barcoded)|GSE149922|CSV|
 |-|[10.1101/2020.06.26.174375 ](https://doi.org/10.1101/2020.06.26.174375 )|Nedrud|2020|DMS|PSD95 PDZ|E.coli|Binding|oligo synthesis|Illumina|No (private)|No (private)|
 |-|[10.1101/623108 ](https://doi.org/10.1101/623108 )|Jones|2020|DMS|ADRB2|HEK293T|Receptor activity|oligo synthesis|Illumina (barcoded)|No (preprint)|TSV|
 |[31467279](https://www.ncbi.nlm.nih.gov/pubmed/31467279)|[10.1038/s41467-019-11735-3 ](https://doi.org/10.1038/s41467-019-11735-3 )|Li|2019|DMS|Phage lambda repressor|E.coli|Transcription|doped oligonucleotide synthesis|Illumina|GSE122806|XLS|
@@ -239,3 +239,4 @@ You can also submit changes using the GitHub issue tracker.
 |[29849145](https://www.ncbi.nlm.nih.gov/pubmed/29849145)| 10.1038/s41586-018-0170-7|Domingo|2018|DMS|Yeast tRNA|Yeast|Growth|oligo synthesise|Illumina|GSE99418|XLS|
 |[31745561](https://www.ncbi.nlm.nih.gov/pubmed/31745561)|[10.1093/nar/gkz1110](https://doi.org/10.1093/nar/gkz1110)|Coyote-Maestas|2020|DMS|HEK293FT|Kir2.1|Surface expression|saturated programmable insertion engineering|Illumina| PRJNA506141, PRJNA554355|No|
 |[32500953](https://www.ncbi.nlm.nih.gov/pubmed/32500953)|[10.15252/msb.20209442](https://doi.org/10.15252/msb.20209442)|Hasle|2020|DMS|U-2 OS H3-Dendra2|simian virus 40 NLS|Visual cell sorting|NNK PCR|Illumina|SE141030|XLS|
+|[27545349](https://www.ncbi.nlm.nih.gov/pubmed/27545349)|[10.1016/j.cell.2016.07.024](https://doi.org/10.1016/j.cell.2016.07.024)|Keren|2016|MPRA|Designed and native promoters|Yeast|Growth, fluorescence transcription|microarray synthesis|GSE83936|Illumina|No|
